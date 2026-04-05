@@ -1,7 +1,7 @@
 # RESOLUTION - HARDWARE PATH
 8-weeks hardware challenge for RESOLUTION - Hack Club.
 
-**WEEK 1** 
+**WEEK 1 - INTRO TO ELECTRONICS** 
 
 
 Here is my first try of that on Lapse : https://lapse.hackclub.com/timelapse/m6EPnW69x3M-
