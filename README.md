@@ -1,4 +1,4 @@
-# RESOLUTION
+# RESOLUTION - HARDWARE PATH
 8-weeks hardware challenge for RESOLUTION - Hack Club.
 
 **WEEK 1** 
